@@ -1,0 +1,15 @@
+* 카카오 로그인 참고 문서
+https://developers.kakao.com/docs/latest/ko/kakaologin/ios#login-through-kakaotalk
+
+* 네이버 로그인 참고 문서
+https://developers.naver.com/docs/login/ios/
+https://huisoo.tistory.com/3
+
+* 구글 로그인 참고 문서
+https://huisoo.tistory.com/4?category=941369
+https://firebase.google.com/docs/auth/ios/google-signin?hl=ko 
+
+* 애플 로그인 참고 문서
+https://firebase.google.com/docs/auth/ios/apple?hl=ko
+https://developer-fury.tistory.com/50
+https://huisoo.tistory.com/3
